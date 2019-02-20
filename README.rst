@@ -6,11 +6,11 @@ Demonstration of Kiwi TCMS plugins
     :alt: Travis CI
 
 .. image:: https://img.shields.io/badge/kiwi%20tcms-results-9ab451.svg
-    :target: https://tcms.kiwitcms.org/plan/14/
+    :target: https://tcms.kiwitcms.org/plan/16/
     :alt: [TAP] TP for kiwitcms/plugin-demo (master)
 
 .. image:: https://img.shields.io/badge/kiwi%20tcms-results-9ab451.svg
-    :target: https://tcms.kiwitcms.org/plan/15/
+    :target: https://tcms.kiwitcms.org/plan/17/
     :alt: [junit.xml] TP for kiwitcms/plugin-demo (master)
 
 
