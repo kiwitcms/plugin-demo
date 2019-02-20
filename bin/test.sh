@@ -2,6 +2,7 @@
 
 # Execute this from the project root directory
 
+export TCMS_RUN_ID=24
 export TCMS_PRODUCT_VERSION=$TRAVIS_BRANCH
 export TCMS_BUILD=`echo $TRAVIS_COMMIT | cut -c1-7`
 
