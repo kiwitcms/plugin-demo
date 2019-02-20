@@ -16,3 +16,6 @@ Demonstration of Kiwi TCMS plugins
 
 This repository is used to demonstrate how various Kiwi TCMS plugins work
 and how they can be controlled via environment variables.
+
+
+Long Term Support v0
