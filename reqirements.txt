@@ -1,0 +1,3 @@
+nose-tap
+kiwitcms-tap-plugin
+kiwitcms-junit.xml-plugin
