@@ -13,3 +13,6 @@ class DemoTestCase(TestCase):
     def test_this_is_flaky(self):
         return  # to eliminate flakiness
         self.assertEqual(0, datetime.now().microsecond % 2)
+
+    def test_critical_bug_reported_by_customer(self):
+        pass
