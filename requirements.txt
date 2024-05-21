@@ -1,3 +1,4 @@
 nose-tap
 kiwitcms-tap-plugin
 kiwitcms-junit.xml-plugin
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
